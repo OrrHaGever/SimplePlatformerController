@@ -25,5 +25,6 @@ This is an example for my parameters.
 Tune the rigidbody parameters accordingly untill you get smooth running and crisp jumping.
 
 ![rb](https://user-images.githubusercontent.com/58950809/147883273-53fa1027-ac43-4fb1-bb59-3b73dca03b4a.png)
+/n
 
-**You are wellcome to use this script in your games!**
+**You are welcome to use this script in your games!**
