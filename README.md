@@ -1,8 +1,8 @@
 # SimplePlatformerController
 made by Orr Maoz
  
-Simple player controller for 2D platformer games made with Unity
-This repo contains a sample scene with a platform and a player.
+Simple player controller for 2D platformer games made with Unity  
+This repo contains a sample scene with a platform and a player.  
 My controller script is attached to the player and can be easily reused in any 2D platformer game.
 
 
