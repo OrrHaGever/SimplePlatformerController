@@ -15,15 +15,13 @@ My controller script is attached to the player and can be easily reused in any 2
 
 
 
-This is an example for my parameters.
-
+This is an example for my parameters.  
 ![Script](https://user-images.githubusercontent.com/58950809/147883267-28346bbe-21ba-422f-858b-6767f4a42506.png)
 
 
 
 
-Tune the rigidbody parameters accordingly untill you get smooth running and crisp jumping.
-
+Tune the rigidbody parameters accordingly untill you get smooth running and crisp jumping.  
 ![rb](https://user-images.githubusercontent.com/58950809/147883273-53fa1027-ac43-4fb1-bb59-3b73dca03b4a.png)
 
 
